@@ -1,7 +1,7 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <html>
 <body>
-<h1>These are the user variables injectede eccd</h1>
+<h1>These are the user variables inject</h1>
 
 <c>
 <table>
